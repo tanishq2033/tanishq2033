@@ -31,5 +31,5 @@
 ---
 
 ## 📫 Connect
-- GitHub: https://github.com/tanishq2033 
--inkedin: https://www.linkedin.com/in/tanishq-shingade-469896298/
+- GitHub: https://github.com/tanishq2033  
+- LinkedIn: https://www.linkedin.com/in/tanishq-shingade-469896298/
